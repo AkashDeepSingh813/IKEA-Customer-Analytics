@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-Analyzed **1.06M+ retail transaction records** to understand customer purchasing behavior, identify high-value customer segments, and assess churn risk. Used SQL, Python, and Power BI to transform raw transaction data into actionable business insights and identify opportunities for customer retention.
+Analyzed **1M+ retail transaction records** to understand customer purchasing behavior, identify high-value customer segments, and assess churn risk. Used SQL, Python, and Power BI to transform raw transaction data into actionable business insights and identify opportunities for customer retention.
 
 ## 🎯 Business Objectives
 
