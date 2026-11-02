@@ -1,6 +1,6 @@
 # IKEA Customer Analytics & RFM Segmentation
 
-**Tools:** SQL | Python | Power BI | DAX
+**Tools:** SQL | Python | Power BI
 
 ## 📌 Project Overview
 
